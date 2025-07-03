@@ -1,0 +1,769 @@
+{
+  "metadata": {
+    "asset_id": "aud-009",
+    "modality": "audio",
+    "duration": 142,
+    "generated_at": "2025-07-01T10:00:00Z",
+    "project_id": "project12",
+    "chat_id": "chat051",
+    "batch_id": "batch91",
+    "user_instructions": "Transcribe and summarize the conversation.",
+    "background_processing": false,
+    "task_id": "string"
+  },
+  "summary": {
+    "title": "Customer Service Call and Unrelated Narrative",
+    "abstract": "The audio contains a customer service call regarding a declined payment and an unrelated narrative about a person exploring a building and encountering a puppy."
+  },
+  "detailed_summary": "The audio begins with a customer, John, attempting to contact customer service to resolve an issue with his account. His payment was declined despite having sufficient funds. The customer service representative, Sarah, engages with John to gather details about the issue. Meanwhile, an unrelated narrative intersperses the conversation, describing a person exploring a building, finding old items, and encountering a puppy. The narrative includes interactions with various individuals and a brief mention of a story involving grandmothers. The customer service call concludes with Sarah promising to review the information and call John back within 24 hours.",
+  "key_insights": [
+    "The conversation involves two main speakers, Sarah and John, with Sarah primarily assisting John with his account issue.",
+    "The tone is generally neutral and professional, with Sarah maintaining a helpful and patient demeanor throughout the conversation.",
+    "The transcript contains PII, specifically John's account number (123456789) and partial payment date (15th of last month).",
+    "The conversation is structured into 44 short segments, each lasting between 3 to 9 seconds, indicating a fragmented or edited transcript.",
+    "There is a recurring, seemingly unrelated narrative about a person finding an old light case and encountering a puppy and other individuals, which may indicate background noise or a separate conversation."
+  ],
+  "timeline": [
+    {
+      "id": 1,
+      "speaker": "Customer",
+      "start_timestamp": "00:00:13",
+      "end_timestamp": "00:00:18",
+      "title": "Segment 1",
+      "text": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+      "summary": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account."
+    },
+    {
+      "id": 2,
+      "speaker": "Customer",
+      "start_timestamp": "00:00:19",
+      "end_timestamp": "00:00:23",
+      "title": "Segment 2",
+      "text": "And she went inside, inside it, and she started to have a look around.",
+      "summary": "And she went inside, inside it, and she started to have a look around."
+    },
+    {
+      "id": 3,
+      "speaker": "Customer",
+      "start_timestamp": "00:00:24",
+      "end_timestamp": "00:00:28",
+      "title": "Segment 3",
+      "text": "Um, and she started to have a look around.",
+      "summary": "Um, and she started to have a look around."
+    },
+    {
+      "id": 4,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:00:30",
+      "end_timestamp": "00:00:32",
+      "title": "Segment 4",
+      "text": "[background noise]",
+      "summary": "[background noise]"
+    },
+    {
+      "id": 5,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:36",
+      "end_timestamp": "00:00:38",
+      "title": "Segment 5",
+      "text": "[background noise]",
+      "summary": "[background noise]"
+    },
+    {
+      "id": 6,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:39",
+      "end_timestamp": "00:00:42",
+      "title": "Segment 6",
+      "text": "Hi, this is Sarah from customer service. How can I help you today?",
+      "summary": "Hi, this is Sarah from customer service. How can I help you today?"
+    },
+    {
+      "id": 7,
+      "speaker": "Unknown",
+      "start_timestamp": "00:00:52",
+      "end_timestamp": "00:00:57",
+      "title": "Segment 7",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 8,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:00:55",
+      "end_timestamp": "00:01:07",
+      "title": "Segment 8",
+      "text": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+      "summary": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account."
+    },
+    {
+      "id": 9,
+      "speaker": "Unknown",
+      "start_timestamp": "00:00:58",
+      "end_timestamp": "00:01:02",
+      "title": "Segment 9",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 10,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:08",
+      "end_timestamp": "00:01:12",
+      "title": "Segment 10",
+      "text": "Okay, what did she find in the building?",
+      "summary": "Okay, what did she find in the building?"
+    },
+    {
+      "id": 11,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:08",
+      "end_timestamp": "00:01:12",
+      "title": "Segment 11",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 12,
+      "speaker": "Customer",
+      "start_timestamp": "00:01:08",
+      "end_timestamp": "00:01:10",
+      "title": "Segment 12",
+      "text": "I've forgotten about the puppy. Let me find the puppy's registration number.",
+      "summary": "I've forgotten about the puppy. Let me find the puppy's registration number."
+    },
+    {
+      "id": 13,
+      "speaker": "Customer",
+      "start_timestamp": "00:01:11",
+      "end_timestamp": "00:01:13",
+      "title": "Segment 13",
+      "text": "I've got the puppy's name, but I can't seem to find the registration number.",
+      "summary": "I've got the puppy's name, but I can't seem to find the registration number."
+    },
+    {
+      "id": 14,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:13",
+      "end_timestamp": "00:01:16",
+      "title": "Segment 14",
+      "text": "Um, she found old pictures on the wall.",
+      "summary": "Um, she found old pictures on the wall."
+    },
+    {
+      "id": 15,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:13",
+      "end_timestamp": "00:01:17",
+      "title": "Segment 15",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 16,
+      "speaker": "Customer",
+      "start_timestamp": "00:01:14",
+      "end_timestamp": "00:01:15",
+      "title": "Segment 16",
+      "text": "Can you help me find the registration number?",
+      "summary": "Can you help me find the registration number?"
+    },
+    {
+      "id": 17,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:18",
+      "end_timestamp": "00:01:22",
+      "title": "Segment 17",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 18,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:18",
+      "end_timestamp": "00:01:22",
+      "title": "Segment 18",
+      "text": "After she was thrown out, a puppy came running up.",
+      "summary": "After she was thrown out, a puppy came running up."
+    },
+    {
+      "id": 19,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:23",
+      "end_timestamp": "00:01:27",
+      "title": "Segment 19",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 20,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:23",
+      "end_timestamp": "00:01:28",
+      "title": "Segment 20",
+      "text": "Um, the puppy was very cute. It was wagging its tail and looking up at me.",
+      "summary": "Um, the puppy was very cute. It was wagging its tail and looking up at me."
+    },
+    {
+      "id": 21,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:28",
+      "end_timestamp": "00:01:32",
+      "title": "Segment 21",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 22,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:01:33",
+      "title": "Segment 22",
+      "text": "Um, the puppy then started to meow. It was asking for something.",
+      "summary": "Um, the puppy then started to meow. It was asking for something."
+    },
+    {
+      "id": 23,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:31",
+      "end_timestamp": "00:01:34",
+      "title": "Segment 23",
+      "text": "And who did she meet in the palace?",
+      "summary": "And who did she meet in the palace?"
+    },
+    {
+      "id": 24,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:33",
+      "end_timestamp": "00:01:37",
+      "title": "Segment 24",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 25,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:35",
+      "end_timestamp": "00:01:39",
+      "title": "Segment 25",
+      "text": "Um, a boy, two men.",
+      "summary": "Um, a boy, two men."
+    },
+    {
+      "id": 26,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:38",
+      "end_timestamp": "00:01:42",
+      "title": "Segment 26",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 27,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:40",
+      "end_timestamp": "00:01:43",
+      "title": "Segment 27",
+      "text": "What?",
+      "summary": "What?"
+    },
+    {
+      "id": 28,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:43",
+      "end_timestamp": "00:01:47",
+      "title": "Segment 28",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 29,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:44",
+      "end_timestamp": "00:01:47",
+      "title": "Segment 29",
+      "text": "What? I mean, what did she do with them?",
+      "summary": "What? I mean, what did she do with them?"
+    },
+    {
+      "id": 30,
+      "speaker": "Customer",
+      "start_timestamp": "00:01:44",
+      "end_timestamp": "00:01:47",
+      "title": "Segment 30",
+      "text": "Hello, this is John. How are you doing today?",
+      "summary": "Hello, this is John. How are you doing today?"
+    },
+    {
+      "id": 31,
+      "speaker": "Unknown",
+      "start_timestamp": "00:01:48",
+      "end_timestamp": "00:01:52",
+      "title": "Segment 31",
+      "text": "And she found this old, um, sort of light case thing.",
+      "summary": "And she found this old, um, sort of light case thing."
+    },
+    {
+      "id": 32,
+      "speaker": "Agent",
+      "start_timestamp": "00:01:48",
+      "end_timestamp": "00:01:52",
+      "title": "Segment 32",
+      "text": "Hi John, I'm doing well, thank you. How can I assist you today?",
+      "summary": "Hi John, I'm doing well, thank you. How can I assist you today?"
+    },
+    {
+      "id": 33,
+      "speaker": "Customer",
+      "start_timestamp": "00:01:53",
+      "end_timestamp": "00:01:56",
+      "title": "Segment 33",
+      "text": "Um, I was wondering if you could help me with my account issue.",
+      "summary": "Um, I was wondering if you could help me with my account issue."
+    },
+    {
+      "id": 34,
+      "speaker": "Agent",
+      "start_timestamp": "00:01:57",
+      "end_timestamp": "00:02:00",
+      "title": "Segment 34",
+      "text": "Of course, John. I'm here to help. Could you please provide me with some details about your issue?",
+      "summary": "Of course, John. I'm here to help. Could you please provide me with some details about your issue?"
+    },
+    {
+      "id": 35,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:57",
+      "end_timestamp": "00:02:02",
+      "title": "Segment 35",
+      "text": "Hi there, this is Sarah from customer service. How can I help you today?",
+      "summary": "Hi there, this is Sarah from customer service. How can I help you today?"
+    },
+    {
+      "id": 36,
+      "speaker": "Customer",
+      "start_timestamp": "00:02:01",
+      "end_timestamp": "00:02:03",
+      "title": "Segment 36",
+      "text": "It's about my account. The payment was declined, but I have money in my account.",
+      "summary": "It's about my account. The payment was declined, but I have money in my account."
+    },
+    {
+      "id": 37,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:02:03",
+      "end_timestamp": "00:02:07",
+      "title": "Segment 37",
+      "text": "They were trying to find or they were trying to audition to pretend to be her so they could get the money from the grandma.",
+      "summary": "They were trying to find or they were trying to audition to pretend to be her so they could get the money from the grandma."
+    },
+    {
+      "id": 38,
+      "speaker": "Agent",
+      "start_timestamp": "00:02:04",
+      "end_timestamp": "00:02:07",
+      "title": "Segment 38",
+      "text": "I see. Could you please provide me with your account number and the last payment details?",
+      "summary": "I see. Could you please provide me with your account number and the last payment details?"
+    },
+    {
+      "id": 39,
+      "speaker": "Customer",
+      "start_timestamp": "00:02:08",
+      "end_timestamp": "00:02:11",
+      "title": "Segment 39",
+      "text": "Sure, my account number is 123456789 and the last payment was on the 15th of last month.",
+      "summary": "Sure, my account number is 123456789 and the last payment was on the 15th of last month."
+    },
+    {
+      "id": 40,
+      "speaker": "Grandmother",
+      "start_timestamp": "00:02:10",
+      "end_timestamp": "00:02:13",
+      "title": "Segment 40",
+      "text": "From the grandmas. Mmm. It's a great story.",
+      "summary": "From the grandmas. Mmm. It's a great story."
+    },
+    {
+      "id": 41,
+      "speaker": "Agent",
+      "start_timestamp": "00:02:12",
+      "end_timestamp": "00:02:15",
+      "title": "Segment 41",
+      "text": "Thank you for the information, John. I'll review this and get back to you shortly.",
+      "summary": "Thank you for the information, John. I'll review this and get back to you shortly."
+    },
+    {
+      "id": 42,
+      "speaker": "Grandmother",
+      "start_timestamp": "00:02:13",
+      "end_timestamp": "00:02:16",
+      "title": "Segment 42",
+      "text": "Yeah. Where are we?",
+      "summary": "Yeah. Where are we?"
+    },
+    {
+      "id": 43,
+      "speaker": "Customer",
+      "start_timestamp": "00:02:16",
+      "end_timestamp": "00:02:18",
+      "title": "Segment 43",
+      "text": "Great, I'll wait for your call then.",
+      "summary": "Great, I'll wait for your call then."
+    },
+    {
+      "id": 44,
+      "speaker": "Agent",
+      "start_timestamp": "00:02:19",
+      "end_timestamp": "00:02:22",
+      "title": "Segment 44",
+      "text": "Alright, John. I'll call you back in 24 hours. Have a great day!",
+      "summary": "Alright, John. I'll call you back in 24 hours. Have a great day!"
+    }
+  ],
+  "audio_transcript": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account. And she went inside, inside it, and she started to have a look around. Um, and she started to have a look around. [background noise] [background noise] Hi, this is Sarah from customer service. How can I help you today? And she found this old, um, sort of light case thing. Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account. And she found this old, um, sort of light case thing. Okay, what did she find in the building? And she found this old, um, sort of light case thing. I've forgotten about the puppy. Let me find the puppy's registration number. I've got the puppy's name, but I can't seem to find the registration number. Um, she found old pictures on the wall. And she found this old, um, sort of light case thing. Can you help me find the registration number? And she found this old, um, sort of light case thing. After she was thrown out, a puppy came running up. And she found this old, um, sort of light case thing. Um, the puppy was very cute. It was wagging its tail and looking up at me. And she found this old, um, sort of light case thing. Um, the puppy then started to meow. It was asking for something. And who did she meet in the palace? And she found this old, um, sort of light case thing. Um, a boy, two men. And she found this old, um, sort of light case thing. What? And she found this old, um, sort of light case thing. What? I mean, what did she do with them? Hello, this is John. How are you doing today? And she found this old, um, sort of light case thing. Hi John, I'm doing well, thank you. How can I assist you today? Um, I was wondering if you could help me with my account issue. Of course, John. I'm here to help. Could you please provide me with some details about your issue? Hi there, this is Sarah from customer service. How can I help you today? It's about my account. The payment was declined, but I have money in my account. They were trying to find or they were trying to audition to pretend to be her so they could get the money from the grandma. I see. Could you please provide me with your account number and the last payment details? Sure, my account number is 123456789 and the last payment was on the 15th of last month. From the grandmas. Mmm. It's a great story. Thank you for the information, John. I'll review this and get back to you shortly. Yeah. Where are we? Great, I'll wait for your call then. Alright, John. I'll call you back in 24 hours. Have a great day!",
+  "annotations": [
+    {
+      "id": "pii-001",
+      "category": "pii_phi",
+      "sub_category": "NAME",
+      "key": "person_name",
+      "value": "Sarah",
+      "confidence": 0.95,
+      "subject": "agent",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:39",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "pii-002",
+      "category": "pii_phi",
+      "sub_category": "NAME",
+      "key": "person_name",
+      "value": "John",
+      "confidence": 0.95,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:44",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-001",
+      "category": "semantic",
+      "sub_category": "organization",
+      "key": "company_name",
+      "value": "customer service",
+      "confidence": 0.9,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:39",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-002",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "light case thing",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:52",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-003",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "puppy",
+      "confidence": 0.9,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:12",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-004",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "puppy's registration number",
+      "confidence": 0.9,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:12",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-005",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "old pictures",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-006",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_name",
+      "value": "building",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:08",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-007",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_name",
+      "value": "palace",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:31",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-008",
+      "category": "semantic",
+      "sub_category": "person",
+      "key": "person_name",
+      "value": "boy",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:35",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-009",
+      "category": "semantic",
+      "sub_category": "person",
+      "key": "person_name",
+      "value": "two men",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:35",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-010",
+      "category": "semantic",
+      "sub_category": "date",
+      "key": "date",
+      "value": "15th of last month",
+      "confidence": 0.9,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:02:08",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-011",
+      "category": "semantic",
+      "sub_category": "account",
+      "key": "account_number",
+      "value": "123456789",
+      "confidence": 0.9,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:02:08",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-001",
+      "category": "metadata",
+      "sub_category": "purpose",
+      "key": "call_purpose",
+      "value": "account issue",
+      "confidence": 0.9,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-002",
+      "category": "metadata",
+      "sub_category": "intent",
+      "key": "customer_intent",
+      "value": "resolve payment issue",
+      "confidence": 0.9,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-003",
+      "category": "metadata",
+      "sub_category": "role",
+      "key": "speaker_role",
+      "value": "customer",
+      "confidence": 0.95,
+      "subject": "Speaker_1",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-004",
+      "category": "metadata",
+      "sub_category": "role",
+      "key": "speaker_role",
+      "value": "agent",
+      "confidence": 0.95,
+      "subject": "Speaker_2",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:39",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-005",
+      "category": "metadata",
+      "sub_category": "outcome",
+      "key": "call_outcome",
+      "value": "pending review",
+      "confidence": 0.85,
+      "subject": "agent",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:02:12",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    }
+  ]
+}

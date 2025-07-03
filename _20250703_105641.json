@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "asset_id": "aud-001",
+    "modality": "audio",
+    "duration": 67,
+    "generated_at": "2024-08-09T14:15:00Z",
+    "project_id": "project12",
+    "chat_id": "chat051",
+    "batch_id": "batch91",
+    "user_instructions": "Transcribe and summarize the conversation.",
+    "background_processing": false,
+    "task_id": "string"
+  },
+  "summary": {
+    "title": "Medical Consultation for Respiratory Symptoms",
+    "abstract": "A doctor assesses a patient's respiratory symptoms, including chest pain and difficulty breathing, and recommends diagnostic tests and medication."
+  },
+  "detailed_summary": "The audio content captures a medical consultation between a doctor and a patient. The patient reports experiencing symptoms for about three days, including chest pain and difficulty breathing, especially during physical exertion or when lying down. The doctor inquires about the duration and nature of the symptoms, noting their worsening condition. The doctor decides to run a COVID test and check the patient's lungs, also prescribing medication to manage the fever and cough. The patient expresses gratitude for the advice and prescribed treatment.",
+  "key_insights": [
+    "The conversation is between a doctor and a patient discussing symptoms and medical advice.",
+    "The patient reports experiencing symptoms for about three days, with worsening chest pain and trouble breathing.",
+    "The doctor asks specific medical questions and provides medical advice, including a COVID test and medication for fever and cough.",
+    "The conversation includes PHI (Protected Health Information) such as symptoms, medical conditions, and treatment plans.",
+    "The conversation is structured into nine segments, each lasting between 7 and 14 seconds."
+  ],
+  "timeline": [
+    {
+      "id": 1,
+      "speaker": "Doctor",
+      "start_timestamp": "00:00:13",
+      "end_timestamp": "00:00:19",
+      "title": "Segment 1",
+      "text": "Doctor, how long have you been experiencing these symptoms?",
+      "summary": "Doctor, how long have you been experiencing these symptoms?"
+    },
+    {
+      "id": 2,
+      "speaker": "Patient",
+      "start_timestamp": "00:00:20",
+      "end_timestamp": "00:00:26",
+      "title": "Segment 2",
+      "text": "It started about three days ago. I thought it would go away, but it's getting worse.",
+      "summary": "It started about three days ago. I thought it would go away, but it's getting worse."
+    },
+    {
+      "id": 3,
+      "speaker": "Doctor",
+      "start_timestamp": "00:00:26",
+      "end_timestamp": "00:00:31",
+      "title": "Segment 3",
+      "text": "Chest pain or trouble breathing? Yes, especially when I walk up the stairs or lie down.",
+      "summary": "Chest pain or trouble breathing? Yes, especially when I walk up the stairs or lie down."
+    },
+    {
+      "id": 4,
+      "speaker": "Doctor",
+      "start_timestamp": "00:00:27",
+      "end_timestamp": "00:00:33",
+      "title": "Segment 4",
+      "text": "Doctor, do you have any chest pain or trouble breathing?",
+      "summary": "Doctor, do you have any chest pain or trouble breathing?"
+    },
+    {
+      "id": 5,
+      "speaker": "Doctor",
+      "start_timestamp": "00:00:32",
+      "end_timestamp": "00:00:36",
+      "title": "Segment 5",
+      "text": "I'd like to run a COVID test and check your lungs. I'll also prescribe something to manage your fever and cough.",
+      "summary": "I'd like to run a COVID test and check your lungs. I'll also prescribe something to manage your fever and cough."
+    },
+    {
+      "id": 6,
+      "speaker": "Doctor",
+      "start_timestamp": "00:00:42",
+      "end_timestamp": "00:00:49",
+      "title": "Segment 6",
+      "text": "The doctor asked about the patient's symptoms, including fever and cough.",
+      "summary": "The doctor asked about the patient's symptoms, including fever and cough."
+    },
+    {
+      "id": 7,
+      "speaker": "Patient",
+      "start_timestamp": "00:00:50",
+      "end_timestamp": "00:00:54",
+      "title": "Segment 7",
+      "text": "Patient responds by saying they have been experiencing these symptoms for a few days.",
+      "summary": "Patient responds by saying they have been experiencing these symptoms for a few days."
+    },
+    {
+      "id": 8,
+      "speaker": "Doctor",
+      "start_timestamp": "00:00:55",
+      "end_timestamp": "00:01:01",
+      "title": "Segment 8",
+      "text": "The doctor advises the patient to take medication to manage their fever and cough.",
+      "summary": "The doctor advises the patient to take medication to manage their fever and cough."
+    },
+    {
+      "id": 9,
+      "speaker": "Patient",
+      "start_timestamp": "00:01:02",
+      "end_timestamp": "00:01:07",
+      "title": "Segment 9",
+      "text": "Patient thanks the doctor for the advice.",
+      "summary": "Patient thanks the doctor for the advice."
+    }
+  ],
+  "audio_transcript": "Doctor, how long have you been experiencing these symptoms? It started about three days ago. I thought it would go away, but it's getting worse. Chest pain or trouble breathing? Yes, especially when I walk up the stairs or lie down. Doctor, do you have any chest pain or trouble breathing? I'd like to run a COVID test and check your lungs. I'll also prescribe something to manage your fever and cough. The doctor asked about the patient's symptoms, including fever and cough. Patient responds by saying they have been experiencing these symptoms for a few days. The doctor advises the patient to take medication to manage their fever and cough. Patient thanks the doctor for the advice.",
+  "annotations": [
+    {
+      "id": "sem-001",
+      "category": "semantic",
+      "sub_category": "time",
+      "key": "duration",
+      "value": "three days",
+      "confidence": 0.95,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:20",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-002",
+      "category": "semantic",
+      "sub_category": "symptom",
+      "key": "symptom",
+      "value": "chest pain",
+      "confidence": 0.9,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:26",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-003",
+      "category": "semantic",
+      "sub_category": "symptom",
+      "key": "symptom",
+      "value": "trouble breathing",
+      "confidence": 0.9,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:26",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-004",
+      "category": "semantic",
+      "sub_category": "symptom",
+      "key": "symptom",
+      "value": "fever",
+      "confidence": 0.9,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:32",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-005",
+      "category": "semantic",
+      "sub_category": "symptom",
+      "key": "symptom",
+      "value": "cough",
+      "confidence": 0.9,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:32",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-006",
+      "category": "semantic",
+      "sub_category": "test",
+      "key": "test",
+      "value": "COVID test",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:32",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-007",
+      "category": "semantic",
+      "sub_category": "test",
+      "key": "test",
+      "value": "lung check",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:32",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-008",
+      "category": "semantic",
+      "sub_category": "medication",
+      "key": "medication",
+      "value": "fever management",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:32",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-009",
+      "category": "semantic",
+      "sub_category": "medication",
+      "key": "medication",
+      "value": "cough management",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:32",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-001",
+      "category": "metadata",
+      "sub_category": "purpose",
+      "key": "call_purpose",
+      "value": "symptom assessment",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-002",
+      "category": "metadata",
+      "sub_category": "role",
+      "key": "speaker_role",
+      "value": "doctor",
+      "confidence": 0.95,
+      "subject": "Speaker_1",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-003",
+      "category": "metadata",
+      "sub_category": "role",
+      "key": "speaker_role",
+      "value": "patient",
+      "confidence": 0.95,
+      "subject": "Speaker_2",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:20",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-004",
+      "category": "metadata",
+      "sub_category": "outcome",
+      "key": "call_outcome",
+      "value": "advice given",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:02",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sent-001",
+      "category": "sentiment",
+      "sub_category": "emotion",
+      "key": "emotion",
+      "value": "concern",
+      "confidence": 0.85,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:20",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sent-002",
+      "category": "sentiment",
+      "sub_category": "tone",
+      "key": "tone",
+      "value": "professional",
+      "confidence": 0.95,
+      "subject": "doctor",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sent-003",
+      "category": "sentiment",
+      "sub_category": "satisfaction",
+      "key": "satisfaction",
+      "value": "satisfied",
+      "confidence": 0.9,
+      "subject": "patient",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:02",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    }
+  ]
+}

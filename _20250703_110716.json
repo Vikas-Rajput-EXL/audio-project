@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "asset_id": "aud-001",
+    "modality": "audio",
+    "duration": 80,
+    "generated_at": "2024-08-13T14:32:00Z",
+    "project_id": "project12",
+    "chat_id": "chat051",
+    "batch_id": "batch91",
+    "user_instructions": "Transcribe and summarize the conversation.",
+    "background_processing": false,
+    "task_id": "string"
+  },
+  "summary": {
+    "title": "Customer Service Call Regarding Payment Issue",
+    "abstract": "A customer service representative assists a customer with a declined payment issue, despite the customer having funds in their account."
+  },
+  "detailed_summary": "The audio begins with a poetic description of a serene natural setting, which seems unrelated to the main content. The actual conversation starts with a customer service representative, Sarah, introducing herself and asking how she can assist. The customer, who is experiencing a payment issue, explains that their payment was declined despite having sufficient funds in their account. The conversation sets the stage for troubleshooting the payment problem.",
+  "key_insights": [
+    "The conversation starts with a poetic monologue, then transitions to a customer service interaction.",
+    "The customer service representative, Sarah, maintains a professional and helpful tone.",
+    "The customer expresses frustration with a declined payment, despite having funds in their account.",
+    "The conversation contains no personally identifiable information (PII) or protected health information (PHI).",
+    "The conversation is divided into four segments, with the first two being poetic and the last two being the customer service interaction."
+  ],
+  "timeline": [
+    {
+      "id": 1,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:13",
+      "end_timestamp": "00:00:23",
+      "title": "Segment 1",
+      "text": "All round our nest, far as the eye can pass, our golden king cup fills with silver edge, where the cow parsley skirts the hawthorn hedge, tis visible silence still is the hour glass. Your hands lie open in the long fresh grass.",
+      "summary": "All round our nest, far as the eye can pass, our golden king cup fills with silver edge, where the cow parsley skirts the hawthorn hedge, tis visible silence still is the hour glass. Your hands lie op..."
+    },
+    {
+      "id": 2,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:39",
+      "end_timestamp": "00:00:49",
+      "title": "Segment 2",
+      "text": "All round our nest, far as the eye can pass, are golden king cup fields with silver edge, where the cow parsley skirts the hawthorn hedge, 'tis visible silence, still as the hour glass.",
+      "summary": "All round our nest, far as the eye can pass, are golden king cup fields with silver edge, where the cow parsley skirts the hawthorn hedge, 'tis visible silence, still as the hour glass."
+    },
+    {
+      "id": 3,
+      "speaker": "Customer",
+      "start_timestamp": "00:00:55",
+      "end_timestamp": "00:01:07",
+      "title": "Segment 3",
+      "text": "Hi there, this is Sarah from customer service. How can I help you today?",
+      "summary": "Hi there, this is Sarah from customer service. How can I help you today?"
+    },
+    {
+      "id": 4,
+      "speaker": "Customer",
+      "start_timestamp": "00:01:08",
+      "end_timestamp": "00:01:20",
+      "title": "Segment 4",
+      "text": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+      "summary": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account."
+    }
+  ],
+  "audio_transcript": "All round our nest, far as the eye can pass, our golden king cup fills with silver edge, where the cow parsley skirts the hawthorn hedge, tis visible silence still is the hour glass. Your hands lie open in the long fresh grass. All round our nest, far as the eye can pass, are golden king cup fields with silver edge, where the cow parsley skirts the hawthorn hedge, 'tis visible silence, still as the hour glass. Hi there, this is Sarah from customer service. How can I help you today? Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+  "annotations": [
+    {
+      "id": "sem-001",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_description",
+      "value": "golden king cup fields with silver edge",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-002",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_description",
+      "value": "where the cow parsley skirts the hawthorn hedge",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-003",
+      "category": "semantic",
+      "sub_category": "time",
+      "key": "time_description",
+      "value": "still as the hour glass",
+      "confidence": 0.8,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:13",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "pii-001",
+      "category": "pii_phi",
+      "sub_category": "NAME",
+      "key": "person_name",
+      "value": "Sarah",
+      "confidence": 0.95,
+      "subject": "agent",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:55",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-004",
+      "category": "semantic",
+      "sub_category": "role",
+      "key": "role_description",
+      "value": "customer service",
+      "confidence": 0.9,
+      "subject": "agent",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:55",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-005",
+      "category": "semantic",
+      "sub_category": "intent",
+      "key": "customer_intent",
+      "value": "trouble with account",
+      "confidence": 0.85,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:08",
+          "segment_id": null,
+          "speaker": "Speaker_3"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-006",
+      "category": "semantic",
+      "sub_category": "issue",
+      "key": "issue_description",
+      "value": "payment was declined",
+      "confidence": 0.9,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:08",
+          "segment_id": null,
+          "speaker": "Speaker_3"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-007",
+      "category": "semantic",
+      "sub_category": "financial",
+      "key": "financial_status",
+      "value": "money in account",
+      "confidence": 0.88,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:08",
+          "segment_id": null,
+          "speaker": "Speaker_3"
+        }
+      },
+      "metadata": null
+    }
+  ]
+}

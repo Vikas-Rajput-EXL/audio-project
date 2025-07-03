@@ -1,0 +1,624 @@
+{
+  "metadata": {
+    "asset_id": "aud-001",
+    "modality": "audio",
+    "duration": 450,
+    "generated_at": "2024-08-13T14:00:00Z",
+    "project_id": "project12",
+    "chat_id": "chat051",
+    "batch_id": "batch91",
+    "user_instructions": "Transcribe and summarize the conversation.",
+    "background_processing": false,
+    "task_id": "string"
+  },
+  "summary": {
+    "title": "Discussion on Unconventional Pregnancy and Customer Service Interaction",
+    "abstract": "The audio content discusses a hypothetical scenario involving a scientist becoming pregnant and the subsequent challenges, followed by a customer service interaction regarding a declined payment."
+  },
+  "detailed_summary": "The audio begins with a whimsical and somewhat nonsensical discussion about a scientist becoming pregnant due to a new drug. The speakers explore the implications of this unusual situation, including the need for a pregnancy home and the potential social dynamics involved. The conversation shifts to a humorous analogy with an Arnold Schwarzenegger movie, where a man dresses up as a woman. The speakers then transition to a more serious tone, discussing the need to address the situation directly with the woman involved. The latter half of the audio features a customer service interaction, where a customer named Sarah assists another customer with a payment issue. The customer initially believes their payment was declined, but Sarah verifies that the payment was processed correctly, resolving the issue.",
+  "key_insights": [
+    "The conversation includes multiple speakers with distinct roles: a customer service representative (Sarah) and an unidentified customer. The customer's speech is disjointed and includes references to a fictional scenario involving pregnancy and a scientist.",
+    "The sentiment and tone of the customer's speech are erratic, shifting between casual, humorous, and confused. The customer service representative maintains a professional and helpful tone throughout.",
+    "The customer mentions sensitive information related to personal relationships, including references to an ex-wife, a brother, and a pregnancy scenario that seems to be a mix of reality and fiction. No explicit PII/PHI is disclosed.",
+    "The conversation is structured into 30 short segments, each lasting between 10 to 20 seconds. The customer service interaction is repeated multiple times, indicating potential confusion or technical issues.",
+    "The content type is a mix of personal anecdotes, fictional scenarios, and a customer service interaction. The customer's speech includes references to a movie and personal experiences, creating a disjointed narrative."
+  ],
+  "timeline": [
+    {
+      "id": 1,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:13",
+      "end_timestamp": "00:00:23",
+      "title": "Segment 1",
+      "text": "Lab instead of women and and scientists and assistant thought of an idea to for a new drug to make people pregnant.",
+      "summary": "Lab instead of women and and scientists and assistant thought of an idea to for a new drug to make people pregnant."
+    },
+    {
+      "id": 2,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:24",
+      "end_timestamp": "00:00:33",
+      "title": "Segment 2",
+      "text": "I ought to try it out on.",
+      "summary": "I ought to try it out on."
+    },
+    {
+      "id": 3,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:26",
+      "end_timestamp": "00:00:36",
+      "title": "Segment 3",
+      "text": "I also tried it on the scientist, and the scientist said okay and tried it out, and he made the scientist pregnant.",
+      "summary": "I also tried it on the scientist, and the scientist said okay and tried it out, and he made the scientist pregnant."
+    },
+    {
+      "id": 4,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:00:34",
+      "end_timestamp": "00:00:43",
+      "title": "Segment 4",
+      "text": "I don't think that's a good idea.",
+      "summary": "I don't think that's a good idea."
+    },
+    {
+      "id": 5,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:37",
+      "end_timestamp": "00:00:46",
+      "title": "Segment 5",
+      "text": "It's about him being pregnant.",
+      "summary": "It's about him being pregnant."
+    },
+    {
+      "id": 6,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:39",
+      "end_timestamp": "00:00:49",
+      "title": "Segment 6",
+      "text": "I've been pregnant for a few months now and he's expecting a baby. It's quite a situation. We have to find a way to handle it, maybe even consider a pregnancy home for her.",
+      "summary": "I've been pregnant for a few months now and he's expecting a baby. It's quite a situation. We have to find a way to handle it, maybe even consider a pregnancy home for her."
+    },
+    {
+      "id": 7,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:50",
+      "end_timestamp": "00:00:59",
+      "title": "Segment 7",
+      "text": "He has to go into a pregnancy home for a woman who always has her hair on and makeup on. It's not ideal, but I think it's necessary.",
+      "summary": "He has to go into a pregnancy home for a woman who always has her hair on and makeup on. It's not ideal, but I think it's necessary."
+    },
+    {
+      "id": 8,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:00:52",
+      "end_timestamp": "00:01:02",
+      "title": "Segment 8",
+      "text": "To like a woman and shit and so that's the Arnold Schwarzenegger movie, yeah, isn't it? Yeah, so Arnold dresses up as a woman? Yeah, and then he and then he does two other years, it's just in a man's side.",
+      "summary": "To like a woman and shit and so that's the Arnold Schwarzenegger movie, yeah, isn't it? Yeah, so Arnold dresses up as a woman? Yeah, and then he and then he does two other years, it's just in a man's ..."
+    },
+    {
+      "id": 9,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:00",
+      "end_timestamp": "00:01:09",
+      "title": "Segment 9",
+      "text": "It's a tough situation, but we need to find a way to make it work. Maybe we can talk to the woman directly and explain the situation.",
+      "summary": "It's a tough situation, but we need to find a way to make it work. Maybe we can talk to the woman directly and explain the situation."
+    },
+    {
+      "id": 10,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:03",
+      "end_timestamp": "00:01:12",
+      "title": "Segment 10",
+      "text": "Yeah, and then he and then he does two other years, it's just in a man's side.",
+      "summary": "Yeah, and then he and then he does two other years, it's just in a man's side."
+    },
+    {
+      "id": 11,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:05",
+      "end_timestamp": "00:01:15",
+      "title": "Segment 11",
+      "text": "Hi there, this is Sarah from customer service. How can I help you today?",
+      "summary": "Hi there, this is Sarah from customer service. How can I help you today?"
+    },
+    {
+      "id": 12,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:16",
+      "end_timestamp": "00:01:25",
+      "title": "Segment 12",
+      "text": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+      "summary": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account."
+    },
+    {
+      "id": 13,
+      "speaker": "Assistant",
+      "start_timestamp": "00:01:18",
+      "end_timestamp": "00:01:28",
+      "title": "Segment 13",
+      "text": "Also, the assistant's ex-wife has a baby as well, in the same hospital, in the same place. So they have, they have two of them, that's why it's very funny.",
+      "summary": "Also, the assistant's ex-wife has a baby as well, in the same hospital, in the same place. So they have, they have two of them, that's why it's very funny."
+    },
+    {
+      "id": 14,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:26",
+      "end_timestamp": "00:01:35",
+      "title": "Segment 14",
+      "text": "Well, let's put a final at the end because when he has a baby also the...",
+      "summary": "Well, let's put a final at the end because when he has a baby also the..."
+    },
+    {
+      "id": 15,
+      "speaker": "Assistant",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:01:38",
+      "title": "Segment 15",
+      "text": "And what are they sort of next to each other?",
+      "summary": "And what are they sort of next to each other?"
+    },
+    {
+      "id": 16,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:31",
+      "end_timestamp": "00:01:34",
+      "title": "Segment 16",
+      "text": "Hi, this is Sarah from customer service. How can I help you today?",
+      "summary": "Hi, this is Sarah from customer service. How can I help you today?"
+    },
+    {
+      "id": 17,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:34",
+      "end_timestamp": "00:01:37",
+      "title": "Segment 17",
+      "text": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+      "summary": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account."
+    },
+    {
+      "id": 18,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:37",
+      "end_timestamp": "00:01:40",
+      "title": "Segment 18",
+      "text": "No, I want to know if that's the way you think 'cause the ex-wife of my brother is coming up again with her husband.",
+      "summary": "No, I want to know if that's the way you think 'cause the ex-wife of my brother is coming up again with her husband."
+    },
+    {
+      "id": 19,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:40",
+      "end_timestamp": "00:01:43",
+      "title": "Segment 19",
+      "text": "I don't know what to say about that.",
+      "summary": "I don't know what to say about that."
+    },
+    {
+      "id": 20,
+      "speaker": "Speaker1",
+      "start_timestamp": "00:01:44",
+      "end_timestamp": "00:01:54",
+      "title": "Segment 20",
+      "text": "So now she's with her husband and so now she's she waits and she gets in labour and then a son comes out to help her. It's like, and it's like, and it's just like, I'm just sitting outside the room.",
+      "summary": "So now she's with her husband and so now she's she waits and she gets in labour and then a son comes out to help her. It's like, and it's like, and it's just like, I'm just sitting outside the room."
+    },
+    {
+      "id": 21,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:01:55",
+      "end_timestamp": "00:02:04",
+      "title": "Segment 21",
+      "text": "Oh boy. That sounds excellent. Is it convincing?",
+      "summary": "Oh boy. That sounds excellent. Is it convincing?"
+    },
+    {
+      "id": 22,
+      "speaker": "Customer",
+      "start_timestamp": "00:02:00",
+      "end_timestamp": "00:02:12",
+      "title": "Segment 22",
+      "text": "Hi, this is Sarah from customer service. How can I help you today?",
+      "summary": "Hi, this is Sarah from customer service. How can I help you today?"
+    },
+    {
+      "id": 23,
+      "speaker": "Sarah",
+      "start_timestamp": "00:02:13",
+      "end_timestamp": "00:02:25",
+      "title": "Segment 23",
+      "text": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account.",
+      "summary": "Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account."
+    },
+    {
+      "id": 24,
+      "speaker": "Speaker2",
+      "start_timestamp": "00:02:14",
+      "end_timestamp": "00:02:18",
+      "title": "Segment 24",
+      "text": "Yeah, it was, um, I thought it would be, but I'm not, I'm not brilliant though.",
+      "summary": "Yeah, it was, um, I thought it would be, but I'm not, I'm not brilliant though."
+    },
+    {
+      "id": 25,
+      "speaker": "Customer",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:02:39",
+      "title": "Segment 25",
+      "text": "Could you please check my account details? I think there might be a mistake.",
+      "summary": "Could you please check my account details? I think there might be a mistake."
+    },
+    {
+      "id": 26,
+      "speaker": "Sarah",
+      "start_timestamp": "00:02:40",
+      "end_timestamp": "00:02:54",
+      "title": "Segment 26",
+      "text": "Sure, let me check that for you. It looks like your payment was processed correctly.",
+      "summary": "Sure, let me check that for you. It looks like your payment was processed correctly."
+    },
+    {
+      "id": 27,
+      "speaker": "Customer",
+      "start_timestamp": "00:02:55",
+      "end_timestamp": "01:02:59",
+      "title": "Segment 27",
+      "text": "Oh, I see. I must have entered the wrong information. Thank you for checking.",
+      "summary": "Oh, I see. I must have entered the wrong information. Thank you for checking."
+    },
+    {
+      "id": 28,
+      "speaker": "Sarah",
+      "start_timestamp": "01:03:00",
+      "end_timestamp": "01:03:05",
+      "title": "Segment 28",
+      "text": "You're welcome! If you have any more questions or issues, feel free to reach out.",
+      "summary": "You're welcome! If you have any more questions or issues, feel free to reach out."
+    },
+    {
+      "id": 29,
+      "speaker": "Customer",
+      "start_timestamp": "01:03:06",
+      "end_timestamp": "01:03:09",
+      "title": "Segment 29",
+      "text": "Alright, I will. Thanks again for your help, Sarah.",
+      "summary": "Alright, I will. Thanks again for your help, Sarah."
+    },
+    {
+      "id": 30,
+      "speaker": "Sarah",
+      "start_timestamp": "01:03:10",
+      "end_timestamp": "01:03:13",
+      "title": "Segment 30",
+      "text": "No problem at all! Have a great day!",
+      "summary": "No problem at all! Have a great day!"
+    }
+  ],
+  "audio_transcript": "Lab instead of women and and scientists and assistant thought of an idea to for a new drug to make people pregnant. I ought to try it out on. I also tried it on the scientist, and the scientist said okay and tried it out, and he made the scientist pregnant. I don't think that's a good idea. It's about him being pregnant. I've been pregnant for a few months now and he's expecting a baby. It's quite a situation. We have to find a way to handle it, maybe even consider a pregnancy home for her. He has to go into a pregnancy home for a woman who always has her hair on and makeup on. It's not ideal, but I think it's necessary. To like a woman and shit and so that's the Arnold Schwarzenegger movie, yeah, isn't it? Yeah, so Arnold dresses up as a woman? Yeah, and then he and then he does two other years, it's just in a man's side. It's a tough situation, but we need to find a way to make it work. Maybe we can talk to the woman directly and explain the situation. Yeah, and then he and then he does two other years, it's just in a man's side. Hi there, this is Sarah from customer service. How can I help you today? Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account. Also, the assistant's ex-wife has a baby as well, in the same hospital, in the same place. So they have, they have two of them, that's why it's very funny. Well, let's put a final at the end because when he has a baby also the... And what are they sort of next to each other? Hi, this is Sarah from customer service. How can I help you today? Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account. No, I want to know if that's the way you think 'cause the ex-wife of my brother is coming up again with her husband. I don't know what to say about that. So now she's with her husband and so now she's she waits and she gets in labour and then a son comes out to help her. It's like, and it's like, and it's just like, I'm just sitting outside the room. Oh boy. That sounds excellent. Is it convincing? Hi, this is Sarah from customer service. How can I help you today? Um, hi Sarah. I'm having trouble with my account. It says my payment was declined but I have money in my account. Yeah, it was, um, I thought it would be, but I'm not, I'm not brilliant though. Could you please check my account details? I think there might be a mistake. Sure, let me check that for you. It looks like your payment was processed correctly. Oh, I see. I must have entered the wrong information. Thank you for checking. You're welcome! If you have any more questions or issues, feel free to reach out. Alright, I will. Thanks again for your help, Sarah. No problem at all! Have a great day!",
+  "annotations": [
+    {
+      "id": "pii-001",
+      "category": "pii_phi",
+      "sub_category": "NAME",
+      "key": "person_name",
+      "value": "Sarah",
+      "confidence": 0.95,
+      "subject": "agent",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:11",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-001",
+      "category": "semantic",
+      "sub_category": "organization",
+      "key": "department",
+      "value": "customer service",
+      "confidence": 0.95,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:11",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-002",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "new drug",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:18",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-003",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_effect",
+      "value": "make people pregnant",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:21",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-004",
+      "category": "semantic",
+      "sub_category": "organization",
+      "key": "company_name",
+      "value": "Arnold Schwarzenegger movie",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:57",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-005",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_name",
+      "value": "pregnancy home",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:00:44",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-006",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_name",
+      "value": "hospital",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:22",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-007",
+      "category": "semantic",
+      "sub_category": "location",
+      "key": "location_name",
+      "value": "room",
+      "confidence": 0.85,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:51",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-008",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "account",
+      "confidence": 0.95,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:16",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-009",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "payment",
+      "confidence": 0.95,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:17",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-010",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "account details",
+      "confidence": 0.95,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:02:26",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "sem-011",
+      "category": "semantic",
+      "sub_category": "product",
+      "key": "product_name",
+      "value": "information",
+      "confidence": 0.95,
+      "subject": "mentioned_entity",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:02:55",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-001",
+      "category": "metadata",
+      "sub_category": "purpose",
+      "key": "call_purpose",
+      "value": "trouble with account",
+      "confidence": 0.95,
+      "subject": "customer",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:16",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-002",
+      "category": "metadata",
+      "sub_category": "role",
+      "key": "speaker_role",
+      "value": "customer",
+      "confidence": 0.95,
+      "subject": "Speaker_1",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:16",
+          "segment_id": null,
+          "speaker": "Speaker_1"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-003",
+      "category": "metadata",
+      "sub_category": "role",
+      "key": "speaker_role",
+      "value": "agent",
+      "confidence": 0.95,
+      "subject": "Speaker_2",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:11",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-004",
+      "category": "metadata",
+      "sub_category": "domain",
+      "key": "conversation_domain",
+      "value": "customer service",
+      "confidence": 0.95,
+      "subject": "conversation",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "00:01:11",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "id": "meta-005",
+      "category": "metadata",
+      "sub_category": "outcome",
+      "key": "call_outcome",
+      "value": "resolved",
+      "confidence": 0.95,
+      "subject": "conversation",
+      "source": {
+        "asset_id": "aud-001",
+        "modality": "audio",
+        "locator": {
+          "timestamp": "01:03:00",
+          "segment_id": null,
+          "speaker": "Speaker_2"
+        }
+      },
+      "metadata": null
+    }
+  ]
+}
